@@ -1,0 +1,42 @@
+Server: 
+Odjemalec: wefw
+Server: wefwef
+Odjemalec: ewfwef
+Server: wefwef
+Odjemalec: wefwef
+Odjemalec: qefweqwefwe
+Server: wef
+Server: wef
+Odjemalec: ww
+Server: fe
+Odjemalec: wef
+Server: wef
+Odjemalec: qwd
+Server: wef
+Odjemalec: d
+Server: wef
+Odjemalec: d
+Server: d
+Priklop127.0.0.1:65179 05/03/2021 4:20:52 pop.
+Odklop127.0.0.1:65179 05/03/2021 4:21:09 pop.
+Priklop 127.0.0.1:65327 05/03/2021 4:29:07 pop.
+Tinea:test
+Server: ok
+Priklop 127.0.0.1:65352 05/03/2021 4:29:57 pop.
+Luka:oj
+Server: oj
+Priklop 127.0.0.1:51645 05/05/2021 6:14:13 pop.
+Tinea:ewrggerg
+Server: gfg
+Tinea:wef
+Server: dfg
+Tinea:dfg
+Priklop 127.0.0.1:51722 05/05/2021 6:19:12 pop.
+Odklop 127.0.0.1:51722 05/05/2021 6:19:21 pop.
+Priklop 127.0.0.1:52056 05/05/2021 6:35:36 pop.
+Tinea:Zivjo
+Server: Zivjo Tinea
+Priklop 127.0.0.1:63586 05/06/2021 10:51:19 pop.
+Tinea:wedfwf
+Server: wefwef
+Tinea:wef
